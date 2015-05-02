@@ -18,5 +18,5 @@ Copyright and license
 ---------------------
 The license is available within the repository in the [LICENSE][license] file.
 
-[safariextz] TabsToNewWindow.safariextz
+[safariextz]: TabsToNewWindow.safariextz
 [license]: LICENSE.md
